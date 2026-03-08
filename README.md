@@ -9,11 +9,11 @@ The system analyses the password based on different factors such as:
 - Numbers
 - Special characters
 
-Based on these checks, it shows whether the password is Weak, Medium, or Strong using a strength meter.
+These checks indicate whether the password is Weak, Medium, or Strong using a strength meter.
 
-The project also calculates password entropy and provides an estimated crack time to show how secure the password is.
+The project also calculates password entropy and estimates how long it would take to crack the password, indicating how secure it is.
 
-* Features
+# Features
 
 - Real-time password strength detection
 - Password entropy calculation
@@ -22,13 +22,13 @@ The project also calculates password entropy and provides an estimated crack tim
 - Strong password generator
 - Dark / Light mode
 
-* Technologies Used
+# Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-* How to Run
+# How to Run
 
 1. Download the project
 2. Open **index.html** in your browser
