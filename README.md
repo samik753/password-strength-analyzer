@@ -1,4 +1,4 @@
-* Password Strength Analyser
+# Password Strength Analyser
 
 This project is a simple web application that checks the strength of a password entered by the user.
 
