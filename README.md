@@ -38,14 +38,14 @@ The project also calculates password entropy and estimates how long it would tak
 
 # Screenshots
 
-## Password Strength Detection
+## Password Strength Analyser
+![Password Analyser](password_analyser.png)
+
+## Password Strength
 ![Password Strength](strength_check.png)
 
-## Dark Mode 
-![Dark Mode](darkmode.png)
-
-## Light Mode
-![Light Mode](lightmode.png)
+## Toggle (Light) Mode
+![Ligth Mode](ligth_theme.png)
 
 
 ## Author
