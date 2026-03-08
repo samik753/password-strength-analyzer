@@ -45,7 +45,7 @@ The project also calculates password entropy and estimates how long it would tak
 ![Password Strength](strength_check.png)
 
 ## Toggle (Light) Mode
-![Ligth Mode](ligth_theme.png)
+![Light Mode](light_theme.png)
 
 
 ## Author
