@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Password Strength Analyzer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>Password Strength Analyzer 🔐</h2>
+
+<button id="theme-toggle">Toggle Theme 🌙</button>
+
+<div class="input-box">
+<input type="password" id="password" placeholder="Enter your password">
+<span id="toggle">👁️</span>
+</div>
+
+<div class="progress">
+<div id="strength-bar"></div>
+</div>
+
+<p id="strength-text"></p>
+
+<p id="entropy"></p>
+
+<p id="crack-time"></p>
+
+<ul id="suggestions"></ul>
+
+<button id="generate">Suggest Strong Password</button>
+
+<p id="generated-pass"></p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
