@@ -45,7 +45,7 @@ The project also calculates password entropy and estimates how long it would tak
 ![Dark Mode](darkmode.png)
 
 ## Light Mode
-![Light Mode](ligthmode.png)
+![Light Mode](lightmode.png)
 
 
 ## Author
