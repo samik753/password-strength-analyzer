@@ -1,3 +1,5 @@
+A simple cybersecurity-based web tool that analyses password strength and helps users create secure passwords.
+
 # Password Strength Analyser
 
 This project is a simple web application that checks the strength of a password entered by the user.
@@ -33,3 +35,18 @@ The project also calculates password entropy and estimates how long it would tak
 1. Download the project
 2. Open **index.html** in your browser
 3. Enter a password to check its strength
+
+# Screenshots
+
+## Password Strength Detection
+![Password Strength](strength_check.png)
+
+## Dark Mode 
+![Dark Mode](darkmode.png)
+
+## Light Mode
+![Light Mode](ligthmode.png)
+
+
+## Author
+Samiksha Kadam
