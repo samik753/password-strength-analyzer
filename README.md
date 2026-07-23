@@ -1,4 +1,4 @@
-A simple cybersecurity-based web tool that analyses password strength and helps users create secure passwords.
+Password Strength Analyser built using HTML, CSS & JavaScript with entropy calculation, crack time estimation, secure password generation and dark/light mode.
 
 # Password Strength Analyser
 
