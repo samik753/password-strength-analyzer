@@ -1,3 +1,8 @@
+# LIVE DEMO 
+🔗 https://samik753.github.io/password-strength-analyzer/
+
+
+
 Password Strength Analyser built using HTML, CSS & JavaScript with entropy calculation, crack time estimation, secure password generation and dark/light mode.
 
 # Password Strength Analyser
