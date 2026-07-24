@@ -3,9 +3,9 @@
 
 
 
-Password Strength Analyser built using HTML, CSS & JavaScript with entropy calculation, crack time estimation, secure password generation and dark/light mode.
+Password Strength Analyzer built using HTML, CSS & JavaScript with entropy calculation, crack time estimation, secure password generation and dark/light mode.
 
-# Password Strength Analyser
+# Password Strength Analyzer
 
 This project is a simple web application that checks the strength of a password entered by the user.
 
@@ -43,7 +43,7 @@ The project also calculates password entropy and estimates how long it would tak
 
 # Screenshots
 
-## Password Strength Analyser
+## Password Strength Analyzer
 ![Password Analyser](password_analyser.png)
 
 ## Password Strength
